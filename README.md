@@ -1,2 +1,2 @@
-# python_mini_projects
+# python_projects
 mini_projects using python
